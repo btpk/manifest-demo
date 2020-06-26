@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote fetch="https://github.com/iayanpahwa/" name="EazyExit" />
+<remote fetch="https://github.com/btpk/" name="btpk" />
     
-    <project name="FastLED.git" path="lib/FastLED" remote="EazyExit" revision="c1ab8fa86f6d6ecbf40ab7f28b36116a3c931916" />
-    <project name="pubsubclient.git" path="lib/PubSubClient" remote="EazyExit" revision="dddfffbe0c497073d960f3b9f83c8400dc8cad6d" />
+    <project name="project1.git" path="lib/hello/project1" remote="btpk" revision="707aa733cfec806572abfe2852ff22e4a48524b9" />
+    <project name="game-of-life.git" path="lib/hello/game-of-life" remote="btpk" revision="e2945b27e2f5da7a231f705d6626402db21d550b" />
 
 </manifest>    
